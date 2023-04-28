@@ -1,14 +1,14 @@
 # Title: 
 
-Author: 
+Author: Ahmad Hasan Ahmad
 
-ORCID: 
+ORCID: https://orcid.org/0009-0008-4964-222X
 
-Date: 
+Date: 28.04.2023
 
-DOI: 
+DOI: 10.5281/zenodo.7873444
 
-Repository URL: 
+Repository URL: https://github.com/Ahmad19111/catalogue-003
 
 ## Based on Baroque AI: Publication Prototype
 
