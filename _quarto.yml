@@ -29,7 +29,7 @@ comments:
   hypothesis: true
 
 format:
-  # options for HTML output
+  # options for HTML output 
   # https://quarto.org/docs/reference/formats/html.html
   html:
     number-sections: false
