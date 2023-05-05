@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Kunsthistorisches Museum - Activity: Paintings catalogue in Jupyter Notebook</title>
+<title>Kunsthistorisches Museum - Activity: Paintings catalogue</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./paintings.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Activity: Paintings catalogue in Jupyter Notebook</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./paintings.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Activity: Paintings catalogue</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -91,7 +91,29 @@ ul.task-list li input[type="checkbox"] {
       <a href="./">Kunsthistorisches Museum</a> 
         <div class="sidebar-tools-main">
     <a href="https://github.com/Ahmad19111/catalogue-003" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
-    <a href="./Kunsthistorisches-Museum.pdf" title="Download PDF" class="quarto-navigation-tool px-1" aria-label="Download PDF"><i class="bi bi-file-pdf"></i></a>
+    <div class="dropdown">
+      <a href="" title="Download" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download"><i class="bi bi-download"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="./Kunsthistorisches-Museum.pdf">
+              <i class="bi bi-bi-file-pdf pe-1"></i>
+            Download PDF
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="./Kunsthistorisches-Museum.docx">
+              <i class="bi bi-bi-file-word pe-1"></i>
+            Download Docx
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="./Kunsthistorisches-Museum.epub">
+              <i class="bi bi-bi-journal pe-1"></i>
+            Download ePub
+            </a>
+          </li>
+      </ul>
+    </div>
 </div>
     </div>
       </div>
@@ -104,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Title:</span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Kunsthistorisches Museum</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -114,12 +136,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./collection003.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Kunsthistorisches Museum</span></a>
+  <a href="./collection003.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">About the Museum</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./paintings.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Activity: Paintings catalogue in Jupyter Notebook</span></a>
+  <a href="./paintings.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Activity: Paintings catalogue</span></a>
   </div>
 </li>
     </ul>
@@ -135,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Activity: Paintings catalogue in Jupyter Notebook</span></h1>
+<h1 class="title"><span class="chapter-title">Activity: Paintings catalogue</span></h1>
 </div>
 
 
@@ -150,8 +172,6 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Objective: Make a selection of nine paintings for the exhibition catalogue to be selected from Wikidata and rendered multi-format in Quarto.</p>
-<p>The below Python code uses SPARQLWrapper to retrieve data from Wikidata based on a SPARQL query.</p>
 <p>Wikidata link: <a href="http://www.wikidata.org/entity/Q27978030">http://www.wikidata.org/entity/Q27978030</a></p>
 <p>Title: Q27978030</p>
 <p>Year: 1680</p>
@@ -482,7 +502,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./collection003.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Kunsthistorisches Museum</span></span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">About the Museum</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
