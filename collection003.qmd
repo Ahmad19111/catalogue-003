@@ -1,16 +1,10 @@
-# Aleppo 
+# Kunsthistorisches Museum 
 
-Source: https://en.wikipedia.org/wiki/Aleppo
+Source: https://de.wikipedia.org/wiki/Kunsthistorisches_Museum_Wien
 
-### City
+### Das Museum
 
-Aleppo is a city in Syria, which serves as the capital of the Aleppo Governorate, the most populous governorate of Syria. With an estimated population of 2,098,000 residents as of 2021, it is Syria's second-largest city and also one of the largest cities in the Levant region.
+Das Kunsthistorische Museum gehört mit seinem Schwestergebäude, dem gegenüber liegenden Naturhistorischen Museum, zu den bedeutendsten historistischen Großgebäuden der Ringstraßenzeit. Zusammen umschließen sie den Maria-Theresien-Platz (neben dem Burgring), auf dem das Maria-Theresien-Denkmal steht. Dieser Platz bedeckt einen Teil des ehemaligen Glacis zwischen heutiger Ringstraße und Zweierlinie und bildet ein Ensembledenkmal, das auch zum Weltkulturerbe Historisches Zentrum von Wien gehört.
 
-Aleppo is one of the oldest continuously inhabited cities in the world; it may have been inhabited since the sixth millennium BC. Excavations at Tell as-Sawda and Tell al-Ansari, just south of the old city of Aleppo, show that the area was occupied by Amorites by the latter part of the third millennium BC. That is also the time at which Aleppo is first mentioned in cuneiform tablets unearthed in Ebla and Mesopotamia, which speak of it as part of the Amorite state of Yamhad, and note its commercial and military importance. Such a long history is attributed to its strategic location as a trading center between the Mediterranean Sea and Mesopotamia.
-
-For centuries, Aleppo was the largest city in the Syrian region, and the Ottoman Empire's third-largest after Constantinople (now Istanbul) and Cairo. The city's significance in history has been its location at one end of the Silk Road, which passed through Central Asia and Mesopotamia. When the Suez Canal was inaugurated in 1869, much trade was diverted to sea and Aleppo began its slow decline. At the fall of the Ottoman Empire after World War I, Aleppo lost its northern hinterland to modern Turkey, as well as the important Baghdad Railway connecting it to Mosul. In the 1940s it lost its main access to the sea, by Antakya and İskenderun, also to Turkey. The growth in importance of Damascus in the past few decades further exacerbated the situation. This decline may have helped to preserve the old city of Aleppo, its medieval architecture and traditional heritage. It won the title of the Islamic Capital of Culture 2006, and has had a wave of successful restorations of its historic landmarks. The Battle of Aleppo (2012–2016) occurred in the city during the Syrian Civil War, and many parts of the city had suffered massive destruction. Affected parts of the city are currently undergoing reconstruction. An estimated 31,000 people were killed in Aleppo during the conflict.
-
-## History
-Aleppo has scarcely been touched by archaeologists, since the modern city occupies its ancient site. The earliest occupation of the site was around 5000 BC, as shown by excavations in Tallet Alsauda.
-
-Aleppo appears in historical records as an important city much earlier than Damascus. The first record of Aleppo comes from the third millennium BC, in the Ebla tablets when Aleppo was referred to as Ha-lam (𒄩𒇴). Some historians, such as Wayne Horowitz, identify Aleppo with the capital of an independent kingdom closely related to Ebla, known as Armi, although this identification is contested. The main temple of the storm god Hadad was located on the citadel hill in the center of the city, when the city was known as the city of Hadad.
+## Geschichte
+Das Museum ist aus den Sammlungen der Habsburger entstanden, vor allem aus der Porträt- und Harnischsammlung Ferdinands von Tirol, der Sammlung Kaiser Rudolfs II. (deren größter Teil jedoch verstreut ist) und der Gemäldesammlung von Erzherzog Leopold Wilhelm. Bereits 1833 forderte Joseph von Arneth, Kustos (und später Direktor) des kaiserlichen Münz- und Antikenkabinetts, die Zusammenführung aller kaiserlichen Sammlungen in einem einzigen Gebäude.
