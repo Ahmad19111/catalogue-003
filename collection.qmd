@@ -3,7 +3,7 @@
 Visualization
 
 
-Here an image of my data viz 
+Here an image of my data viz :
 ![Sample data viz diagram](./viz.jpg)
 
 
