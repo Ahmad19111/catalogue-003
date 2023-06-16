@@ -13,7 +13,8 @@ book:
     - index.qmd
     - colophon.ipynb
     - collection003.qmd
-    - paintings.ipynb
+    - collection.qmd
+  #  - paintings.ipynb
     - photograph _test.ipynb
   #  - video.ipynb
   #  - sw-collection.ipynb
